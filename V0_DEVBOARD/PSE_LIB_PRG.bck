@@ -1,0 +1,118 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AHT20
+D temperature humidity sensor
+K temperature  humidity
+F https://cdn-learn.adafruit.com/assets/assets/000/091/676/original/AHT20-datasheet-2020-4-16.pdf?1591047915
+$ENDCMP
+#
+$CMP AP22802A
+D ideal diode active HIGH
+K ideal diode
+$ENDCMP
+#
+$CMP AP22802B
+D ideal diode active LOW
+K ideal diode
+$ENDCMP
+#
+$CMP AP9101CK
+D Li+ Battery Protection IC for Single Cell Pack, SOT-23-5
+K battery protection li-ion li-po
+F https://www.diodes.com/assets/Datasheets/AP9101C.pdf
+$ENDCMP
+#
+$CMP APDS99X0
+F https://datasheet.lcsc.com/szlcsc/1811141115_AVAGO-Broadcom-APDS-9960_C93222.pdf
+$ENDCMP
+#
+$CMP Buzzer
+D Buzzer, polarized
+K quartz resonator ceramic
+F ~
+$ENDCMP
+#
+$CMP CH340C
+D USB serial converter, UART, SOIC-16
+K USB UART Serial Converter Interface
+F https://cdn.sparkfun.com/assets/9/3/0/2/e/ch3402CDS.pdf
+$ENDCMP
+#
+$CMP DTC144E
+D Digital NPN Transistor, 47k/47k, SOT-23
+K ROHM Digital NPN Transistor
+$ENDCMP
+#
+$CMP DTD143EG
+D Digital NPN Transistor, 4k7/4k7, SOT-23
+K Digital NPN Transistor
+$ENDCMP
+#
+$CMP DW01A_PUOLOP
+D Li+ Battery Protection IC for Single Cell Pack, SOT-23-6
+K battery protection li-ion li-po
+F https://datasheet.lcsc.com/szlcsc/1901091236_PUOLOP-DW01A_C351410.pdf
+$ENDCMP
+#
+$CMP ESP32_SOLO
+F https://datasheet.lcsc.com/szlcsc/2001111409_Espressif-Systems-ESP32-SOLO-1_C473005.pdf
+$ENDCMP
+#
+$CMP FS8205A
+D DUAL NMOSFET
+F https://www.ic-fortune.com/upload/Download/FS8205A-DS-12_EN.pdf
+$ENDCMP
+#
+$CMP LM66100
+F https://www.ti.com/lit/ds/symlink/lm66100.pdf?ts=1592586922347&ref_url=https%253A%252F%252Fwww.ti.com%252Fpower-management%252Fpower-switches%252Fideal-diodes-oring-controllers%252Fproducts.html
+$ENDCMP
+#
+$CMP MCP73833
+D MCP73833/4 LI-ON CHARGER
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22005b.pdf
+$ENDCMP
+#
+$CMP MCP73834
+D MCP73833/4 LI-ON CHARGER
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22005b.pdf
+$ENDCMP
+#
+$CMP MPU-6050
+D InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C
+K mems
+F https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf
+$ENDCMP
+#
+$CMP PCT2075
+D NXP I2C-bus Fm+ digital temperature sensor and thermal watchdog,
+K temperature sensor I2C single channel
+F https://www.nxp.com/docs/en/data-sheet/PCT2075.pdf
+$ENDCMP
+#
+$CMP TPS2115A
+F https://www.ti.com/lit/ds/sbvs044f/sbvs044f.pdf?ts=1592460715067&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+$CMP TPS54202DDCR
+F https://www.ti.com/lit/ds/symlink/tps54202.pdf?ts=1592736015390
+$ENDCMP
+#
+$CMP TPS54302DDCR
+F https://www.ti.com/lit/ds/symlink/tps54302.pdf?ts=1592736191516&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+$CMP TPS61236P
+F https://www.ti.com/lit/ds/symlink/tps61236p.pdf?ts=1592460505347
+$ENDCMP
+#
+$CMP USB_C_Receptacle_USB2.0
+D USB 2.0-only Type-C Receptacle connector
+K usb universal serial bus type-C USB2.0
+F https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+$ENDCMP
+#
+$CMP VEML6030
+F https://www.vishay.com/docs/84366/veml6030.pdf
+$ENDCMP
+#
+#End Doc Library

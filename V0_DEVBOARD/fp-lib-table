@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PSE_package)(type KiCad)(uri ${KIPRJMOD}/library_package/PSE_package.pretty)(options "")(descr ""))
+)

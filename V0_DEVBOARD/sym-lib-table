@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name PSE_LIB_PRG)(type Legacy)(uri ${KIPRJMOD}/PSE_LIB_PRG.lib)(options "")(descr ""))
+  (lib (name 0_TEST_DCDC)(type Legacy)(uri "D:/progetti kicad/PSE/PSE_BOARD_ESP32_ALL_IN1PCB/1_DCDC12V_to_5V_SIP3/0_TEST_DCDC.lib")(options "")(descr ""))
+  (lib (name PSE-BOARD-rescue)(type Legacy)(uri "${KIPRJMOD}/PSE BOARD-rescue.lib")(options "")(descr ""))
+)
